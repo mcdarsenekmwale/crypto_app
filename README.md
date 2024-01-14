@@ -14,15 +14,23 @@ Flutter project.
 </br>
 </hr>
 
+### Install and get Started
 
+> - flutter packages get
+> - flutter run --release
 
-## Getting Started
+### Author
 
-This project is a starting point for a Flutter application.
+- **Name** : McDarsene MK Mwale 
+- **Website** : [mcdarsene.com ](https://mcdarsene.com)
 
-A few resources to get you started if this is your first Flutter project:
+## Feel feel to you the UI for any of your projects
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+## Show your support
+
+- Give a ⭐️ if this project helped you !
+
+  
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
