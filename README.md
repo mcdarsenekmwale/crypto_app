@@ -15,7 +15,7 @@ Flutter project.
 </br>
 </hr>
 
-![Screenshot_1636819206](https://github.com/mcdarsenekmwale/social-app/assets/30800758/326e85e6-63fd-4eef-9701-5d3329e53f12)
+
 
 ## Getting Started
 
