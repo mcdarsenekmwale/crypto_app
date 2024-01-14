@@ -5,8 +5,8 @@ Flutter project.
 ## SCREENSHOTS
 <div> 
     <picture>
-        <source media="(min-width:250px)" srcset="https://github.com/mcdarsenekmwale/crypto_app/blob/main/screen%20shots/Screenshot_1636819206.png">
-        <source media="(min-width:250px)" srcset="https://github.com/mcdarsenekmwale/social-app/assets/30800758/326e85e6-63fd-4eef-9701-5d3329e53f12">
+        <source media="(min-width:250px;height:500px)" srcset="https://github.com/mcdarsenekmwale/crypto_app/blob/main/screen%20shots/Screenshot_1636819206.png">
+        <source media="(min-width:250px;height:500px )" srcset="https://github.com/mcdarsenekmwale/social-app/assets/30800758/326e85e6-63fd-4eef-9701-5d3329e53f12">
         
         <img src="https://github.com/mcdarsenekmwale/crypto_app/blob/main/screen%20shots/Screenshot_1636819206.png" height="500" width="250">
     </picture>
