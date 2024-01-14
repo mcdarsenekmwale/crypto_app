@@ -14,7 +14,7 @@ Flutter project.
    <img src="https://github.com/mcdarsenekmwale/social-app/assets/30800758/ffa0adbf-4da3-49f4-889b-2a1bb94e6442" height="500" width="375.0">
    <img src="https://github.com/mcdarsenekmwale/social-app/assets/30800758/da9ab7ba-7108-46ad-8c5b-98545247cb1a" height="500" width="375.0">
  
-</div>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30800758/296538515-a4efd7a1-a6e7-47e7-aa76-cb5c9999457c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240114T083814Z&X-Amz-Expires=300&X-Amz-Signature=eecbb0e5750a882dba7bcde361c916437faac04b5b6de21d8c155ff462792476&X-Amz-SignedHeaders=host&actor_id=30800758&key_id=0&repo_id=742688958"/>
 </br>
 </hr>
 
